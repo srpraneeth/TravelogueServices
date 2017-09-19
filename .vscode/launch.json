@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [{
+        "name": "Launch server.js via nodemon",
+        "type": "node",
+        "request": "launch",
+        "runtimeExecutable": "nodemon",
+        "program": "${workspaceRoot}/dist/index.js",
+        "restart": true,
+        "console": "integratedTerminal",
+        "internalConsoleOptions": "neverOpen"
+    }]
+}

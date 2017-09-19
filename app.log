@@ -1,0 +1,1133 @@
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-12T22:00:31.153Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T00:18:16.088Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T03:16:27.453Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T03:16:31.638Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T03:18:44.255Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T03:18:47.873Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T14:22:07.136Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T14:23:26.025Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T14:24:05.578Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T14:24:27.175Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T14:24:38.985Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T14:25:06.527Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T14:25:51.705Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T14:35:42.504Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-13T14:35:57.705Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-13T14:35:57.757Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-13T14:35:57.760Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-13T14:35:57.761Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T14:36:23.624Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T14:36:32.157Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-13T14:36:35.934Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-13T14:36:36.003Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-13T14:36:36.006Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-13T14:36:36.007Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T14:36:43.926Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-13T14:36:47.147Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-13T14:36:47.195Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-13T14:36:47.197Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-13T14:36:47.197Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T14:37:15.530Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-13T14:37:18.855Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-13T14:37:18.897Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-13T14:37:18.899Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-13T14:37:18.899Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T19:26:48.361Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-13T19:26:55.822Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-13T19:26:55.902Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-13T19:26:55.931Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-13T19:26:55.932Z"}
+{"level":"info","message":"GET /post 200 2 - 26.009 ms\n","timestamp":"2017-09-13T19:27:40.679Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T19:39:06.214Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T19:39:12.373Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-13T19:39:15.524Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-13T19:39:15.564Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-13T19:39:15.566Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-13T19:39:15.567Z"}
+{"level":"info","message":"GET /post 200 2 - 29.084 ms\n","timestamp":"2017-09-13T19:39:54.173Z"}
+{"level":"info","message":"GET /post 200 2 - 6.181 ms\n","timestamp":"2017-09-13T19:39:56.426Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T19:40:18.247Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-13T19:40:21.626Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-13T19:40:21.674Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-13T19:40:21.676Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-13T19:40:21.677Z"}
+{"level":"info","message":"GET /post 200 2 - 35.664 ms\n","timestamp":"2017-09-13T19:40:24.644Z"}
+{"level":"info","message":"GET /post 200 2 - 7.059 ms\n","timestamp":"2017-09-13T19:40:25.715Z"}
+{"level":"info","message":"GET /post 200 2 - 4.834 ms\n","timestamp":"2017-09-13T19:40:26.130Z"}
+{"level":"info","message":"GET /post 200 2 - 3.015 ms\n","timestamp":"2017-09-13T19:40:26.640Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T19:40:49.547Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-13T19:40:52.720Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-13T19:40:52.762Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-13T19:40:52.764Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-13T19:40:52.764Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T19:43:18.126Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-13T19:43:31.327Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-13T19:43:31.376Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-13T19:43:31.378Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-13T19:43:31.378Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T19:46:36.575Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T19:46:49.326Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T19:46:58.315Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-13T19:47:02.105Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-13T19:47:02.196Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-13T19:47:02.201Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-13T19:47:02.203Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T19:47:11.321Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T19:47:23.481Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T19:47:36.139Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-13T19:47:41.507Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-13T19:47:41.620Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-13T19:47:41.626Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-13T19:47:41.627Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T19:49:54.477Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-13T19:49:57.772Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-13T19:49:57.823Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-13T19:49:57.825Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-13T19:49:57.826Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T19:50:44.094Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-13T19:50:47.371Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-13T19:50:47.423Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-13T19:50:47.425Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-13T19:50:47.426Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T19:50:56.688Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-13T19:50:59.822Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-13T19:50:59.867Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-13T19:50:59.869Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-13T19:50:59.870Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T19:52:00.716Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-13T19:52:07.150Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-13T19:52:07.227Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-13T19:52:07.230Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-13T19:52:07.231Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T19:52:12.323Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-13T19:52:15.453Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-13T19:52:15.501Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-13T19:52:15.503Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-13T19:52:15.503Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T19:52:30.862Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-13T19:52:33.935Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-13T19:52:33.975Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-13T19:52:33.977Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-13T19:52:33.977Z"}
+{"level":"info","message":"GET /post 200 2 - 59.587 ms\n","timestamp":"2017-09-13T19:52:53.520Z"}
+{"level":"info","message":"GET /post 200 2 - 8.149 ms\n","timestamp":"2017-09-13T19:52:54.642Z"}
+{"level":"info","message":"GET /post 200 2 - 3.498 ms\n","timestamp":"2017-09-13T19:52:55.358Z"}
+{"level":"info","message":"GET /post 200 2 - 4.033 ms\n","timestamp":"2017-09-13T19:52:55.832Z"}
+{"level":"info","message":"GET /post 200 2 - 3.505 ms\n","timestamp":"2017-09-13T19:52:56.141Z"}
+{"level":"info","message":"GET /post 200 2 - 3.755 ms\n","timestamp":"2017-09-13T19:52:57.293Z"}
+{"level":"info","message":"GET /post 200 2 - 2.589 ms\n","timestamp":"2017-09-13T19:52:57.660Z"}
+{"level":"info","message":"GET /post 200 2 - 2.846 ms\n","timestamp":"2017-09-13T19:52:58.040Z"}
+{"level":"info","message":"GET /post 200 2 - 4.151 ms\n","timestamp":"2017-09-13T19:52:58.444Z"}
+{"level":"info","message":"GET /post 200 2 - 7.013 ms\n","timestamp":"2017-09-13T19:52:58.869Z"}
+{"level":"info","message":"GET /post 200 2 - 15.156 ms\n","timestamp":"2017-09-13T19:53:01.270Z"}
+{"level":"info","message":"GET /post 200 2 - 4.117 ms\n","timestamp":"2017-09-13T19:53:02.354Z"}
+{"level":"info","message":"GET /post 200 2 - 4.226 ms\n","timestamp":"2017-09-13T19:53:03.059Z"}
+{"level":"info","message":"GET /post 200 2 - 3.619 ms\n","timestamp":"2017-09-13T19:53:04.007Z"}
+{"level":"info","message":"GET /post 200 2 - 4.538 ms\n","timestamp":"2017-09-13T19:53:04.860Z"}
+{"level":"info","message":"GET /post 200 2 - 4.255 ms\n","timestamp":"2017-09-13T19:53:05.523Z"}
+{"level":"info","message":"GET /post 200 2 - 3.414 ms\n","timestamp":"2017-09-13T19:53:06.083Z"}
+{"level":"info","message":"GET /post 200 2 - 2.562 ms\n","timestamp":"2017-09-13T19:53:06.338Z"}
+{"level":"info","message":"GET /post 200 2 - 4.512 ms\n","timestamp":"2017-09-13T19:53:06.808Z"}
+{"level":"info","message":"GET /post 200 2 - 2.616 ms\n","timestamp":"2017-09-13T19:53:07.256Z"}
+{"level":"error","message":"{ reqBody: [object Object], reqUrl: undefined, reqMeth: POST, error: TypeError: Cannot read property 'subscribe' of null\n    at createPost (C:\\Users\\Z228941\\Desktop\\TSWebP\\dist\\routes\\post.routes.js:16:52)\n    at Layer.handle [as handle_request] (C:\\Users\\Z228941\\Desktop\\TSWebP\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\Z228941\\Desktop\\TSWebP\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\Z228941\\Desktop\\TSWebP\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\Z228941\\Desktop\\TSWebP\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\Z228941\\Desktop\\TSWebP\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\Z228941\\Desktop\\TSWebP\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Z228941\\Desktop\\TSWebP\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\Z228941\\Desktop\\TSWebP\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\Z228941\\Desktop\\TSWebP\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\Users\\Z228941\\Desktop\\TSWebP\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Z228941\\Desktop\\TSWebP\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Z228941\\Desktop\\TSWebP\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\Z228941\\Desktop\\TSWebP\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Z228941\\Desktop\\TSWebP\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at C:\\Users\\Z228941\\Desktop\\TSWebP\\dist\\config\\jwtsecurity.config.js:20:17\n    at Object.module.exports [as verify] (C:\\Users\\Z228941\\Desktop\\TSWebP\\node_modules\\jsonwebtoken\\verify.js:176:10)\n    at JwtSecurity.jwtSecurity (C:\\Users\\Z228941\\Desktop\\TSWebP\\dist\\config\\jwtsecurity.config.js:12:13)\n    at Layer.handle [as handle_request] (C:\\Users\\Z228941\\Desktop\\TSWebP\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Z228941\\Desktop\\TSWebP\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Z228941\\Desktop\\TSWebP\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\Z228941\\Desktop\\TSWebP\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Z228941\\Desktop\\TSWebP\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at C:\\Users\\Z228941\\Desktop\\TSWebP\\node_modules\\express\\lib\\router\\index.js:635:15\n    at next (C:\\Users\\Z228941\\Desktop\\TSWebP\\node_modules\\express\\lib\\router\\index.js:260:14)\n    at Function.handle (C:\\Users\\Z228941\\Desktop\\TSWebP\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\Z228941\\Desktop\\TSWebP\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\Users\\Z228941\\Desktop\\TSWebP\\node_modules\\express\\lib\\router\\layer.js:95:5) }","timestamp":"2017-09-13T19:53:17.737Z"}
+{"level":"info","message":"POST /post - - - - ms\n","timestamp":"2017-09-13T19:53:47.732Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T19:54:37.572Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-13T19:54:40.869Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-13T19:54:40.923Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-13T19:54:40.925Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-13T19:54:40.926Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T19:54:51.890Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-13T19:54:55.442Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-13T19:54:55.528Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-13T19:54:55.531Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-13T19:54:55.532Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T19:55:04.016Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-13T19:55:07.328Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-13T19:55:07.372Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-13T19:55:07.374Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-13T19:55:07.374Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T19:55:19.793Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-13T19:55:23.158Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-13T19:55:23.199Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-13T19:55:23.201Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-13T19:55:23.201Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T19:55:40.454Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-13T19:55:43.670Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-13T19:55:43.711Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-13T19:55:43.712Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-13T19:55:43.713Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T19:56:05.327Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-13T19:56:11.477Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-13T19:56:11.548Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-13T19:56:11.551Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-13T19:56:11.552Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T19:56:17.195Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-13T19:56:20.251Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-13T19:56:20.295Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-13T19:56:20.297Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-13T19:56:20.297Z"}
+{"level":"info","message":"POST /post - - - - ms\n","timestamp":"2017-09-13T19:56:54.599Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T19:57:03.008Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-13T19:57:06.193Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-13T19:57:06.234Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-13T19:57:06.236Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-13T19:57:06.237Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T19:57:42.070Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-13T19:57:45.235Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-13T19:57:45.280Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-13T19:57:45.282Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-13T19:57:45.283Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T19:58:19.550Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-13T19:58:22.777Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-13T19:58:22.820Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-13T19:58:22.822Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-13T19:58:22.823Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T20:07:05.234Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-13T20:07:08.523Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-13T20:07:08.565Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-13T20:07:08.566Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-13T20:07:08.567Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T20:07:34.087Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-13T20:07:37.236Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-13T20:07:37.278Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-13T20:07:37.280Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-13T20:07:37.280Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T20:08:30.182Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-13T20:08:33.404Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-13T20:08:33.446Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-13T20:08:33.448Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-13T20:08:33.448Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T20:08:57.823Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-13T20:09:01.040Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-13T20:09:01.086Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-13T20:09:01.088Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-13T20:09:01.089Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T20:09:30.718Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-13T20:09:33.864Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-13T20:09:33.904Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-13T20:09:33.906Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-13T20:09:33.906Z"}
+{"level":"error","message":"{ reqBody: [object Object], reqUrl: undefined, reqMeth: POST, error: SyntaxError: Unexpected token h in JSON at position 1\n    at Object.parse (native)\n    at parse (C:\\Users\\Z228941\\Desktop\\TSWebP\\node_modules\\body-parser\\lib\\types\\json.js:88:17)\n    at C:\\Users\\Z228941\\Desktop\\TSWebP\\node_modules\\body-parser\\lib\\read.js:116:18\n    at invokeCallback (C:\\Users\\Z228941\\Desktop\\TSWebP\\node_modules\\raw-body\\index.js:262:16)\n    at done (C:\\Users\\Z228941\\Desktop\\TSWebP\\node_modules\\raw-body\\index.js:251:7)\n    at IncomingMessage.onEnd (C:\\Users\\Z228941\\Desktop\\TSWebP\\node_modules\\raw-body\\index.js:307:7)\n    at emitNone (events.js:86:13)\n    at IncomingMessage.emit (events.js:185:7)\n    at endReadableNT (_stream_readable.js:974:12)\n    at _combinedTickCallback (internal/process/next_tick.js:74:11)\n    at process._tickCallback (internal/process/next_tick.js:98:9) }","timestamp":"2017-09-13T20:09:54.480Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T20:10:19.546Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-13T20:10:22.754Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-13T20:10:22.796Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-13T20:10:22.798Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-13T20:10:22.799Z"}
+{"level":"info","message":"POST /post - - - - ms\n","timestamp":"2017-09-13T20:11:03.538Z"}
+{"level":"info","message":"GET /post 200 234 - 24.473 ms\n","timestamp":"2017-09-13T20:11:04.582Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T20:14:49.527Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-13T20:14:52.717Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-13T20:14:52.759Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-13T20:14:52.760Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-13T20:14:52.761Z"}
+{"level":"info","message":"GET /post 200 2 - 25.617 ms\n","timestamp":"2017-09-13T20:15:09.524Z"}
+{"level":"info","message":"POST /post - - - - ms\n","timestamp":"2017-09-13T20:15:28.113Z"}
+{"level":"info","message":"GET /post 200 234 - 9.662 ms\n","timestamp":"2017-09-13T20:15:35.189Z"}
+{"level":"info","message":"POST /post - - - - ms\n","timestamp":"2017-09-13T20:15:45.108Z"}
+{"level":"info","message":"GET /post 200 467 - 7.365 ms\n","timestamp":"2017-09-13T20:15:48.213Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T20:17:30.826Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T20:17:38.235Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-13T20:17:41.282Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-13T20:17:41.323Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-13T20:17:41.324Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-13T20:17:41.325Z"}
+{"level":"info","message":"GET /post 200 2 - 35.012 ms\n","timestamp":"2017-09-13T20:18:01.010Z"}
+{"level":"info","message":"POST /post - - - - ms\n","timestamp":"2017-09-13T20:18:34.561Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T20:28:01.970Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-13T20:28:05.168Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-13T20:28:05.213Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-13T20:28:05.215Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-13T20:28:05.215Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-13T22:29:05.835Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-13T22:29:19.432Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-13T22:29:19.617Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-13T22:29:19.644Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-13T22:29:19.644Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T00:41:30.897Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T00:41:36.651Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T00:41:36.728Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T00:41:36.736Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T00:41:36.737Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T01:03:15.101Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T01:03:18.524Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T01:03:18.576Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T01:03:18.579Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T01:03:18.582Z"}
+{"level":"error","message":"{ reqBody: [object Object], reqUrl: undefined, reqMeth: POST, error: undefined }","timestamp":"2017-09-14T01:03:58.753Z"}
+{"level":"error","message":"{ reqBody: [object Object], reqUrl: undefined, reqMeth: POST, error: undefined }","timestamp":"2017-09-14T01:04:04.764Z"}
+{"level":"info","message":"POST /post - - - - ms\n","timestamp":"2017-09-14T01:04:27.932Z"}
+{"level":"info","message":"POST /post - - - - ms\n","timestamp":"2017-09-14T01:04:34.745Z"}
+{"level":"error","message":"{ reqBody: [object Object], reqUrl: undefined, reqMeth: POST, error: undefined }","timestamp":"2017-09-14T01:05:01.150Z"}
+{"level":"info","message":"POST /post - - - - ms\n","timestamp":"2017-09-14T01:05:31.161Z"}
+{"level":"error","message":"{ reqBody: [object Object], reqUrl: undefined, reqMeth: POST, error: undefined }","timestamp":"2017-09-14T01:06:05.760Z"}
+{"level":"info","message":"POST /post - - - - ms\n","timestamp":"2017-09-14T01:06:35.744Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T01:07:14.833Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T01:07:18.333Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T01:07:18.375Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T01:07:18.376Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T01:07:18.379Z"}
+{"level":"error","message":"{ reqBody: [object Object], reqUrl: undefined, reqMeth: POST, error: undefined }","timestamp":"2017-09-14T01:07:23.984Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T01:07:47.840Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T01:07:51.397Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T01:07:51.441Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T01:07:51.443Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T01:07:51.446Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T01:08:23.242Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T01:08:26.539Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T01:08:26.579Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T01:08:26.581Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T01:08:26.584Z"}
+{"level":"error","message":"{ reqBody: [object Object], reqUrl: undefined, reqMeth: POST, error: undefined }","timestamp":"2017-09-14T01:08:31.189Z"}
+{"level":"info","message":"POST /post - - - - ms\n","timestamp":"2017-09-14T01:09:00.979Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T01:12:44.883Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T01:12:48.347Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T01:12:48.390Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T01:12:48.392Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T01:12:48.395Z"}
+{"level":"error","message":"{ reqBody: [object Object], reqUrl: undefined, reqMeth: POST, error: undefined }","timestamp":"2017-09-14T01:13:03.402Z"}
+{"level":"info","message":"POST /post 500 43 - 106.353 ms\n","timestamp":"2017-09-14T01:13:03.413Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T01:15:12.406Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T01:15:15.895Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T01:15:15.949Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T01:15:15.951Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T01:15:15.954Z"}
+{"level":"error","message":"{ reqBody: {\"head\":\"Test Post\",\"createdUser\":1000}, reqUrl: /post, reqMeth: POST, error: undefined }","timestamp":"2017-09-14T01:15:18.517Z"}
+{"level":"info","message":"POST /post 500 43 - 115.562 ms\n","timestamp":"2017-09-14T01:15:18.528Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T01:16:23.778Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T01:16:27.260Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T01:16:27.307Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T01:16:27.309Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T01:16:27.313Z"}
+{"level":"error","message":"{ reqBody: {\"head\":\"Test Post\",\"createdUser\":1000}, reqUrl: /post, reqMeth: POST, error: { __v: 0,\n  head: 'Test Post',\n  createdUser: 1000,\n  _id: 59b9d86d9a5e362e9cc2b32f,\n  comments: [],\n  resources: [],\n  tags: [],\n  updatedOn: 2017-09-14T01:16:23.747Z,\n  createdOn: 2017-09-14T01:16:23.747Z,\n  placesTagged: [],\n  usersTagged: [] } }","timestamp":"2017-09-14T01:16:29.508Z"}
+{"level":"info","message":"POST /post 500 43 - 92.317 ms\n","timestamp":"2017-09-14T01:16:29.517Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T01:17:32.340Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T01:17:35.944Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T01:17:36.012Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T01:17:36.014Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T01:17:36.017Z"}
+{"level":"info","message":"POST /post 201 34 - 101.060 ms\n","timestamp":"2017-09-14T01:17:41.462Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T02:10:38.537Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T02:10:41.989Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T02:10:42.038Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T02:10:42.040Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T02:10:42.044Z"}
+{"level":"info","message":"POST /post 400 14 - 51.038 ms\n","timestamp":"2017-09-14T02:10:54.706Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T02:11:50.212Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T02:11:53.722Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T02:11:53.775Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T02:11:53.777Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T02:11:53.781Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T02:12:00.061Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T02:12:03.455Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T02:12:03.498Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T02:12:03.500Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T02:12:03.503Z"}
+{"level":"info","message":"POST /post 201 34 - 94.106 ms\n","timestamp":"2017-09-14T02:12:30.341Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T02:12:54.085Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T02:12:57.520Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T02:12:57.572Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T02:12:57.576Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T02:12:57.585Z"}
+{"level":"info","message":"POST /post 400 14 - 74.281 ms\n","timestamp":"2017-09-14T02:13:01.414Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T02:14:01.175Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T02:14:04.540Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T02:14:04.584Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T02:14:04.586Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T02:14:04.590Z"}
+{"level":"info","message":"POST /post 400 14 - 80.648 ms\n","timestamp":"2017-09-14T02:14:11.825Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T02:15:06.160Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T02:15:09.621Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T02:15:09.663Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T02:15:09.665Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T02:15:09.668Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T02:17:42.696Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T02:17:46.123Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T02:17:46.181Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T02:17:46.183Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T02:17:46.188Z"}
+{"level":"info","message":"POST /post 400 14 - 70.742 ms\n","timestamp":"2017-09-14T02:18:01.556Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T02:18:23.821Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T02:18:27.233Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T02:18:27.280Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T02:18:27.282Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T02:18:27.285Z"}
+{"level":"info","message":"POST /post 400 14 - 91.692 ms\n","timestamp":"2017-09-14T02:18:37.381Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T02:19:01.201Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T02:19:05.086Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T02:19:05.146Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T02:19:05.148Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T02:19:05.152Z"}
+{"level":"info","message":"POST /post 400 14 - 60.313 ms\n","timestamp":"2017-09-14T02:19:05.497Z"}
+{"level":"info","message":"POST /post 400 14 - 14.079 ms\n","timestamp":"2017-09-14T02:19:28.817Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T02:19:33.130Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T02:19:36.858Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T02:19:36.908Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T02:19:36.910Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T02:19:36.913Z"}
+{"level":"info","message":"POST /post 201 34 - 79.931 ms\n","timestamp":"2017-09-14T02:19:39.248Z"}
+{"level":"info","message":"POST /post 400 14 - 20.943 ms\n","timestamp":"2017-09-14T02:20:04.083Z"}
+{"level":"info","message":"POST /post 400 14 - 11.628 ms\n","timestamp":"2017-09-14T02:21:06.047Z"}
+{"level":"info","message":"POST /post 400 14 - 7.120 ms\n","timestamp":"2017-09-14T02:21:07.087Z"}
+{"level":"info","message":"POST /post 400 14 - 6.181 ms\n","timestamp":"2017-09-14T02:21:07.888Z"}
+{"level":"info","message":"POST /post 400 14 - 5.700 ms\n","timestamp":"2017-09-14T02:21:08.464Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T02:21:13.419Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T02:21:17.129Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T02:21:17.174Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T02:21:17.176Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T02:21:17.179Z"}
+{"level":"info","message":"POST /post 400 120 - 56.962 ms\n","timestamp":"2017-09-14T02:21:19.610Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T02:29:09.929Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T02:29:13.472Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T02:29:13.549Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T02:29:13.552Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T02:29:13.556Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T02:29:54.644Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T02:29:58.105Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T02:29:58.193Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T02:29:58.197Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T02:29:58.203Z"}
+{"level":"info","message":"POST /post 400 151 - 60.899 ms\n","timestamp":"2017-09-14T02:30:01.915Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T02:32:36.587Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T02:32:40.162Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T02:32:40.202Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T02:32:40.204Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T02:32:40.207Z"}
+{"level":"info","message":"POST /post 400 151 - 65.705 ms\n","timestamp":"2017-09-14T02:32:41.025Z"}
+{"level":"info","message":"POST /post 400 151 - 4.275 ms\n","timestamp":"2017-09-14T02:32:42.146Z"}
+{"level":"info","message":"POST /post 400 151 - 3.781 ms\n","timestamp":"2017-09-14T02:32:49.253Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T02:34:45.968Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T02:34:50.021Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T02:34:50.072Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T02:34:50.074Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T02:34:50.078Z"}
+{"level":"info","message":"POST /post 400 151 - 66.133 ms\n","timestamp":"2017-09-14T02:34:50.307Z"}
+{"level":"info","message":"POST /post 400 151 - 5.943 ms\n","timestamp":"2017-09-14T02:34:50.621Z"}
+{"level":"info","message":"POST /post 400 151 - 5.589 ms\n","timestamp":"2017-09-14T02:35:45.135Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T02:36:16.600Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T02:36:20.447Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T02:36:20.492Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T02:36:20.494Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T02:36:20.498Z"}
+{"level":"info","message":"POST /post 400 169 - 50.611 ms\n","timestamp":"2017-09-14T02:36:24.187Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T02:36:47.653Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T02:36:51.186Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T02:36:51.231Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T02:36:51.233Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T02:36:51.237Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T02:38:25.398Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T02:38:28.972Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T02:38:29.017Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T02:38:29.019Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T02:38:29.023Z"}
+{"level":"info","message":"POST /post 400 151 - 50.552 ms\n","timestamp":"2017-09-14T02:38:30.125Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T02:39:11.878Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T02:39:15.417Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T02:39:15.457Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T02:39:15.459Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T02:39:15.462Z"}
+{"level":"info","message":"POST /post 400 76 - 58.722 ms\n","timestamp":"2017-09-14T02:39:24.468Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T02:40:46.525Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T02:40:50.227Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T02:40:50.272Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T02:40:50.274Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T02:40:50.279Z"}
+{"level":"info","message":"POST /post 400 2 - 95.744 ms\n","timestamp":"2017-09-14T02:40:50.630Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T02:41:11.634Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T02:41:15.272Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T02:41:15.335Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T02:41:15.337Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T02:41:15.339Z"}
+{"level":"info","message":"POST /post 400 76 - 51.505 ms\n","timestamp":"2017-09-14T02:41:18.263Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T02:52:42.929Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T02:52:51.234Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T02:52:54.897Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T02:52:54.942Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T02:52:54.944Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T02:52:54.947Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T02:53:25.316Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T02:53:28.726Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T02:53:28.779Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T02:53:28.808Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T02:53:28.811Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T02:54:18.959Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T02:54:22.482Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T02:54:22.528Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T02:54:22.530Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T02:54:22.533Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T02:54:50.327Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T02:54:54.130Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T02:54:54.215Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T02:54:54.217Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T02:54:54.220Z"}
+{"level":"info","message":"POST /post 201 34 - 80.773 ms\n","timestamp":"2017-09-14T02:54:54.391Z"}
+{"level":"info","message":"POST /post 201 34 - 7.874 ms\n","timestamp":"2017-09-14T02:54:55.085Z"}
+{"level":"info","message":"POST /post 201 34 - 7.155 ms\n","timestamp":"2017-09-14T02:54:55.665Z"}
+{"level":"info","message":"POST /post 201 34 - 8.116 ms\n","timestamp":"2017-09-14T02:54:56.137Z"}
+{"level":"info","message":"GET /post 200 933 - 19.482 ms\n","timestamp":"2017-09-14T02:55:00.390Z"}
+{"level":"info","message":"POST /post 201 34 - 10.731 ms\n","timestamp":"2017-09-14T02:58:17.226Z"}
+{"level":"info","message":"GET /post 200 1191 - 10.523 ms\n","timestamp":"2017-09-14T02:58:21.947Z"}
+{"level":"info","message":"GET /post 200 1191 - 8.035 ms\n","timestamp":"2017-09-14T03:00:41.107Z"}
+{"level":"info","message":"POST /post 201 34 - 9.005 ms\n","timestamp":"2017-09-14T03:00:45.881Z"}
+{"level":"info","message":"GET /post 200 1449 - 8.249 ms\n","timestamp":"2017-09-14T03:00:55.543Z"}
+{"level":"info","message":"POST /post 400 63 - 4.199 ms\n","timestamp":"2017-09-14T03:01:16.810Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T03:01:32.095Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T03:01:35.716Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T03:01:35.795Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T03:01:35.797Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T03:01:35.801Z"}
+{"level":"info","message":"POST /post 201 34 - 98.592 ms\n","timestamp":"2017-09-14T03:01:42.896Z"}
+{"level":"info","message":"GET /post 200 265 - 26.625 ms\n","timestamp":"2017-09-14T03:01:51.491Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T14:16:58.895Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T14:17:16.612Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T14:17:17.026Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T14:17:17.080Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T14:17:17.084Z"}
+{"level":"info","message":"GET /post 200 2 - 27.328 ms\n","timestamp":"2017-09-14T14:18:10.407Z"}
+{"level":"info","message":"POST /post 201 34 - 586.629 ms\n","timestamp":"2017-09-14T14:18:18.416Z"}
+{"level":"info","message":"POST /post 201 34 - 7.374 ms\n","timestamp":"2017-09-14T14:18:22.180Z"}
+{"level":"info","message":"POST /post 201 34 - 4.778 ms\n","timestamp":"2017-09-14T14:18:24.536Z"}
+{"level":"info","message":"POST /post 201 34 - 4.525 ms\n","timestamp":"2017-09-14T14:18:25.382Z"}
+{"level":"info","message":"POST /post 201 34 - 10.705 ms\n","timestamp":"2017-09-14T14:18:26.151Z"}
+{"level":"info","message":"GET /post 200 1321 - 10.646 ms\n","timestamp":"2017-09-14T14:18:40.144Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T14:19:37.206Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T14:19:40.933Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T14:19:40.977Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T14:19:40.981Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T14:19:40.986Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T14:20:19.880Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T14:20:23.167Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T14:20:23.215Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T14:20:23.217Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T14:20:23.221Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T14:25:12.164Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T14:25:21.417Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T14:25:21.493Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T14:25:21.496Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T14:25:21.500Z"}
+{"level":"info","message":"GET /post 200 2 - 29.510 ms\n","timestamp":"2017-09-14T14:25:21.733Z"}
+{"level":"info","message":"GET /post 200 2 - 6.099 ms\n","timestamp":"2017-09-14T14:25:22.103Z"}
+{"level":"info","message":"GET /post 200 2 - 3.601 ms\n","timestamp":"2017-09-14T14:25:22.410Z"}
+{"level":"info","message":"POST /post 201 34 - 88.872 ms\n","timestamp":"2017-09-14T14:25:27.893Z"}
+{"level":"info","message":"GET /post 200 2 - 3.555 ms\n","timestamp":"2017-09-14T14:25:31.672Z"}
+{"level":"info","message":"POST /post 201 34 - 6.668 ms\n","timestamp":"2017-09-14T14:25:38.084Z"}
+{"level":"info","message":"GET /post 200 2 - 11.259 ms\n","timestamp":"2017-09-14T14:25:45.247Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T14:26:45.195Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T14:26:48.494Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T14:26:48.539Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T14:26:48.541Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T14:26:48.544Z"}
+{"level":"info","message":"GET /post 200 2 - 24.862 ms\n","timestamp":"2017-09-14T14:27:38.165Z"}
+{"level":"info","message":"POST /post 201 34 - 96.592 ms\n","timestamp":"2017-09-14T14:27:41.415Z"}
+{"level":"info","message":"GET /post 200 2 - 4.122 ms\n","timestamp":"2017-09-14T14:27:46.763Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T14:28:23.102Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T14:28:26.735Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T14:28:26.831Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T14:28:26.859Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T14:28:26.863Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T14:46:36.381Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T14:46:41.501Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T14:46:41.622Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T14:46:41.624Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T14:46:41.628Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T14:47:02.453Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T14:47:05.701Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T14:47:05.760Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T14:47:05.762Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T14:47:05.766Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T14:47:38.593Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T14:47:42.303Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T14:47:42.391Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T14:47:42.394Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T14:47:42.399Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T14:48:10.281Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T14:48:16.964Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T14:48:20.127Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T14:48:20.182Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T14:48:20.184Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T14:48:20.188Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T14:52:31.465Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T14:52:34.518Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T14:52:34.615Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T14:52:34.617Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T14:52:34.624Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T14:53:14.138Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T14:53:17.471Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T14:53:17.520Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T14:53:17.522Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T14:53:17.525Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T14:53:24.537Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T14:53:30.054Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T14:53:33.184Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T14:53:33.234Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T14:53:33.236Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T14:53:33.239Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T14:54:04.274Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T14:54:07.346Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T14:54:07.391Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T14:54:07.393Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T14:54:07.397Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T14:54:19.830Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T14:54:22.871Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T14:54:22.914Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T14:54:22.916Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T14:54:22.919Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T14:54:47.762Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T14:54:50.882Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T14:54:50.925Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T14:54:50.927Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T14:54:50.931Z"}
+{"level":"info","message":"POST /post 201 34 - 309.790 ms\n","timestamp":"2017-09-14T14:56:03.661Z"}
+{"level":"error","message":"{ reqBody: {}, reqUrl: /post, reqMeth: GET, error: SyntaxError: Unexpected token u in JSON at position 0 }","timestamp":"2017-09-14T14:56:07.246Z"}
+{"level":"info","message":"GET /post 500 43 - 2.651 ms\n","timestamp":"2017-09-14T14:56:07.248Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T14:57:26.334Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T14:57:29.475Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T14:57:29.518Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T14:57:29.519Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T14:57:29.523Z"}
+{"level":"error","message":"{ reqBody: {}, reqUrl: /post, reqMeth: GET, error: SyntaxError: Unexpected token u in JSON at position 0 }","timestamp":"2017-09-14T14:57:39.557Z"}
+{"level":"info","message":"GET /post 500 43 - 39.034 ms\n","timestamp":"2017-09-14T14:57:39.571Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T14:59:40.468Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T14:59:43.484Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T14:59:43.526Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T14:59:43.528Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T14:59:43.531Z"}
+{"level":"info","message":"GET /post 200 2 - 61.061 ms\n","timestamp":"2017-09-14T14:59:49.353Z"}
+{"level":"info","message":"POST /post 201 34 - 77.070 ms\n","timestamp":"2017-09-14T14:59:54.980Z"}
+{"level":"info","message":"GET /post 200 265 - 8.863 ms\n","timestamp":"2017-09-14T14:59:59.088Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T15:06:58.640Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T15:07:02.155Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T15:07:02.206Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T15:07:02.208Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T15:07:02.211Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T15:07:08.336Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T15:07:12.526Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T15:07:12.566Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T15:07:12.568Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T15:07:12.571Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T15:07:28.922Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T15:07:34.316Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T15:07:37.506Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T15:07:37.554Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T15:07:37.557Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T15:07:37.560Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T15:08:36.139Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T15:08:39.490Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T15:08:39.534Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T15:08:39.536Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T15:08:39.539Z"}
+{"level":"info","message":"GET /post 200 2 - 35.138 ms\n","timestamp":"2017-09-14T15:08:51.430Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T15:09:54.392Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T15:09:58.282Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T15:09:58.331Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T15:09:58.334Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T15:09:58.339Z"}
+{"level":"info","message":"GET /post 200 2 - 32.871 ms\n","timestamp":"2017-09-14T15:09:58.629Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T15:15:01.733Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T15:15:04.849Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T15:15:04.890Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T15:15:04.892Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T15:15:04.895Z"}
+{"level":"info","message":"GET /post 200 2 - 62.193 ms\n","timestamp":"2017-09-14T15:15:09.430Z"}
+{"level":"info","message":"POST /post 201 34 - 175.304 ms\n","timestamp":"2017-09-14T15:15:25.425Z"}
+{"level":"info","message":"GET /post 200 265 - 18.389 ms\n","timestamp":"2017-09-14T15:15:30.422Z"}
+{"level":"info","message":"POST /post 201 34 - 11.986 ms\n","timestamp":"2017-09-14T15:15:52.089Z"}
+{"level":"info","message":"GET /post 200 529 - 6.710 ms\n","timestamp":"2017-09-14T15:15:56.832Z"}
+{"level":"info","message":"POST /post 201 34 - 11.259 ms\n","timestamp":"2017-09-14T15:17:10.246Z"}
+{"level":"info","message":"POST /post 201 34 - 11.408 ms\n","timestamp":"2017-09-14T15:17:11.994Z"}
+{"level":"info","message":"GET /post 200 1057 - 11.016 ms\n","timestamp":"2017-09-14T15:17:16.717Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T15:18:57.382Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T15:19:00.513Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T15:19:00.555Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T15:19:00.557Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T15:19:00.561Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T15:20:15.310Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T15:20:18.429Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T15:20:18.476Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T15:20:18.479Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T15:20:18.485Z"}
+{"level":"info","message":"POST /post 201 34 - 101.261 ms\n","timestamp":"2017-09-14T15:21:15.826Z"}
+{"level":"info","message":"GET /post 200 265 - 25.388 ms\n","timestamp":"2017-09-14T15:21:21.426Z"}
+{"level":"info","message":"POST /post 201 34 - 10.655 ms\n","timestamp":"2017-09-14T15:21:29.678Z"}
+{"level":"info","message":"POST /post 201 34 - 9.751 ms\n","timestamp":"2017-09-14T15:21:32.288Z"}
+{"level":"info","message":"GET /post 200 793 - 13.836 ms\n","timestamp":"2017-09-14T15:21:35.398Z"}
+{"level":"info","message":"GET /post 200 793 - 13.662 ms\n","timestamp":"2017-09-14T15:49:45.101Z"}
+{"level":"info","message":"GET /post 200 265 - 6.585 ms\n","timestamp":"2017-09-14T15:51:05.536Z"}
+{"level":"info","message":"GET /post 200 529 - 7.026 ms\n","timestamp":"2017-09-14T15:51:16.372Z"}
+{"level":"info","message":"GET /post 200 793 - 6.152 ms\n","timestamp":"2017-09-14T15:51:26.128Z"}
+{"level":"info","message":"GET /post 200 265 - 6.574 ms\n","timestamp":"2017-09-14T15:51:36.787Z"}
+{"level":"info","message":"GET /post 200 265 - 8.675 ms\n","timestamp":"2017-09-14T15:51:50.209Z"}
+{"level":"info","message":"GET /post 200 265 - 4.246 ms\n","timestamp":"2017-09-14T15:51:57.432Z"}
+{"level":"info","message":"GET /post 200 265 - 457.036 ms\n","timestamp":"2017-09-14T15:52:23.447Z"}
+{"level":"info","message":"GET /post 200 793 - 6.111 ms\n","timestamp":"2017-09-14T15:52:34.154Z"}
+{"level":"info","message":"POST /post 201 34 - 7.389 ms\n","timestamp":"2017-09-14T15:53:08.674Z"}
+{"level":"info","message":"POST /post 201 34 - 8.661 ms\n","timestamp":"2017-09-14T15:53:13.567Z"}
+{"level":"info","message":"POST /post 201 34 - 8.248 ms\n","timestamp":"2017-09-14T15:53:18.719Z"}
+{"level":"info","message":"POST /post 201 34 - 6.157 ms\n","timestamp":"2017-09-14T15:53:32.680Z"}
+{"level":"info","message":"GET /post 200 791 - 5.179 ms\n","timestamp":"2017-09-14T15:53:39.496Z"}
+{"level":"info","message":"GET /post 200 791 - 5.352 ms\n","timestamp":"2017-09-14T16:19:52.859Z"}
+{"level":"info","message":"GET /post 200 1845 - 11.568 ms\n","timestamp":"2017-09-14T16:20:02.799Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T16:29:44.222Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T16:29:51.002Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T16:29:51.046Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T16:29:51.048Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T16:29:51.050Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T16:30:24.393Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T16:30:27.581Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T16:30:27.623Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T16:30:27.625Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T16:30:27.629Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T16:31:04.833Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T16:31:10.416Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T16:31:15.889Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T16:31:19.108Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T16:31:19.149Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T16:31:19.152Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T16:31:19.155Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T16:31:31.065Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T16:31:34.762Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T16:31:34.900Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T16:31:34.903Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T16:31:34.910Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T16:31:39.923Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T16:31:43.089Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T16:31:43.131Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T16:31:43.133Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T16:31:43.136Z"}
+{"level":"info","message":"GET /post 200 2 - 40.576 ms\n","timestamp":"2017-09-14T16:32:55.525Z"}
+{"level":"info","message":"GET /post 200 2 - 5.656 ms\n","timestamp":"2017-09-14T16:35:25.781Z"}
+{"level":"info","message":"GET /post 200 2 - 6.237 ms\n","timestamp":"2017-09-14T16:35:50.678Z"}
+{"level":"info","message":"GET /post 200 2 - 3.823 ms\n","timestamp":"2017-09-14T16:37:12.105Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T16:46:59.519Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T16:47:02.786Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T16:47:02.828Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T16:47:02.830Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T16:47:02.834Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T16:50:13.199Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T16:50:17.529Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T16:50:17.976Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T16:50:18.014Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T16:50:18.018Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T16:50:29.125Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T16:50:32.589Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T16:50:32.632Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T16:50:32.633Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T16:50:32.636Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T16:51:11.933Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T16:51:15.622Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T16:51:15.665Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T16:51:15.667Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T16:51:15.670Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T16:52:02.665Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T16:52:14.804Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T16:52:18.026Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T16:52:18.074Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T16:52:18.076Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T16:52:18.079Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T16:52:40.356Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T16:52:43.773Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T16:52:43.829Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T16:52:43.831Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T16:52:43.834Z"}
+{"level":"error","message":"{ reqBody: {}, reqUrl: /post, reqMeth: GET, error: TypeError: Cannot read property 'sort' of undefined }","timestamp":"2017-09-14T16:52:45.498Z"}
+{"level":"info","message":"GET /post 500 43 - 9.729 ms\n","timestamp":"2017-09-14T16:52:45.505Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T16:54:10.071Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T16:54:13.348Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T16:54:13.394Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T16:54:13.396Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T16:54:13.399Z"}
+{"level":"info","message":"GET /post 200 2 - 30.349 ms\n","timestamp":"2017-09-14T16:54:26.438Z"}
+{"level":"info","message":"GET /post 200 2 - 6.989 ms\n","timestamp":"2017-09-14T16:54:44.293Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T16:58:44.424Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T16:58:47.597Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T16:58:47.641Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T16:58:47.643Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T16:58:47.646Z"}
+{"level":"info","message":"GET /post 200 2 - 60.477 ms\n","timestamp":"2017-09-14T16:58:58.981Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T16:59:59.119Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T17:00:02.270Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T17:00:02.313Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T17:00:02.315Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T17:00:02.318Z"}
+{"level":"info","message":"GET /post 200 2 - 34.663 ms\n","timestamp":"2017-09-14T17:01:36.903Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T17:02:15.189Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T17:02:18.417Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T17:02:18.468Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T17:02:18.471Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T17:02:18.475Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T17:02:37.266Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T17:02:40.359Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T17:02:40.405Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T17:02:40.407Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T17:02:40.411Z"}
+{"level":"info","message":"GET /swagger-ui.html 301 189 - 7.417 ms\n","timestamp":"2017-09-14T17:17:29.784Z"}
+{"level":"info","message":"GET /swagger-ui.html/ 200 11376 - 23.338 ms\n","timestamp":"2017-09-14T17:17:29.815Z"}
+{"level":"info","message":"GET /swagger-ui.html/swagger-ui-init.js 200 947 - 84.709 ms\n","timestamp":"2017-09-14T17:17:30.000Z"}
+{"level":"info","message":"GET /swagger-ui.html/swagger-ui.css 200 30828 - 93.063 ms\n","timestamp":"2017-09-14T17:17:30.003Z"}
+{"level":"info","message":"GET /swagger-ui.html/swagger-ui-bundle.js 200 1321968 - 114.299 ms\n","timestamp":"2017-09-14T17:17:30.269Z"}
+{"level":"info","message":"GET /swagger-ui.html/swagger-ui-standalone-preset.js 200 260200 - 376.953 ms\n","timestamp":"2017-09-14T17:17:30.540Z"}
+{"level":"info","message":"GET /swagger-ui.html/favicon-16x16.png 200 445 - 14.929 ms\n","timestamp":"2017-09-14T17:17:31.783Z"}
+{"level":"info","message":"GET /swagger-ui.html/favicon-16x16.png 304 - - 2.287 ms\n","timestamp":"2017-09-14T17:18:13.593Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T17:20:32.614Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T17:20:36.018Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T17:20:36.061Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T17:20:36.062Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T17:20:36.065Z"}
+{"level":"info","message":"GET /swagger-ui.html/ 304 - - 11.916 ms\n","timestamp":"2017-09-14T17:20:54.136Z"}
+{"level":"info","message":"GET /swagger-ui.html/swagger-ui.css 304 - - 4.315 ms\n","timestamp":"2017-09-14T17:20:54.146Z"}
+{"level":"info","message":"GET /swagger-ui.html/swagger-ui-bundle.js 304 - - 3.166 ms\n","timestamp":"2017-09-14T17:20:54.152Z"}
+{"level":"info","message":"GET /swagger-ui.html/swagger-ui-standalone-preset.js 304 - - 4.889 ms\n","timestamp":"2017-09-14T17:20:54.156Z"}
+{"level":"info","message":"GET /swagger-ui.html/swagger-ui-init.js 304 - - 8.015 ms\n","timestamp":"2017-09-14T17:20:54.158Z"}
+{"level":"info","message":"GET /swagger-ui.html/favicon-16x16.png 304 - - 0.621 ms\n","timestamp":"2017-09-14T17:20:55.420Z"}
+{"level":"info","message":"GET /swagger-ui.html/ 304 - - 3.116 ms\n","timestamp":"2017-09-14T17:21:29.764Z"}
+{"level":"info","message":"GET /swagger-ui.html/swagger-ui.css 304 - - 4.352 ms\n","timestamp":"2017-09-14T17:21:29.789Z"}
+{"level":"info","message":"GET /swagger-ui.html/swagger-ui-bundle.js 304 - - 3.924 ms\n","timestamp":"2017-09-14T17:21:29.790Z"}
+{"level":"info","message":"GET /swagger-ui.html/swagger-ui-standalone-preset.js 304 - - 4.596 ms\n","timestamp":"2017-09-14T17:21:29.792Z"}
+{"level":"info","message":"GET /swagger-ui.html/swagger-ui-init.js 304 - - 5.700 ms\n","timestamp":"2017-09-14T17:21:29.793Z"}
+{"level":"info","message":"GET /swagger-ui.html/favicon-16x16.png 304 - - 0.641 ms\n","timestamp":"2017-09-14T17:21:30.839Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T17:22:30.437Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T17:22:33.689Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T17:22:33.732Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T17:22:33.733Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T17:22:33.736Z"}
+{"level":"info","message":"GET /swagger-ui.html/favicon-16x16.png 304 - - 12.333 ms\n","timestamp":"2017-09-14T17:22:55.890Z"}
+{"level":"info","message":"GET /swagger-ui.html/ 200 11376 - 8.832 ms\n","timestamp":"2017-09-14T17:23:03.342Z"}
+{"level":"info","message":"GET /swagger-ui.html/swagger-ui.css 304 - - 2.888 ms\n","timestamp":"2017-09-14T17:23:03.395Z"}
+{"level":"info","message":"GET /swagger-ui.html/swagger-ui-bundle.js 304 - - 3.126 ms\n","timestamp":"2017-09-14T17:23:03.401Z"}
+{"level":"info","message":"GET /swagger-ui.html/swagger-ui-standalone-preset.js 304 - - 4.011 ms\n","timestamp":"2017-09-14T17:23:03.403Z"}
+{"level":"info","message":"GET /swagger-ui.html/swagger-ui-init.js 304 - - 5.448 ms\n","timestamp":"2017-09-14T17:23:03.404Z"}
+{"level":"info","message":"GET /swagger-ui.html/favicon-16x16.png 304 - - 2.035 ms\n","timestamp":"2017-09-14T17:23:04.322Z"}
+{"level":"info","message":"GET /swagger-ui.html/favicon-16x16.png 304 - - 0.543 ms\n","timestamp":"2017-09-14T17:23:06.485Z"}
+{"level":"info","message":"POST /post 201 34 - 175.616 ms\n","timestamp":"2017-09-14T17:23:39.047Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T17:24:56.407Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T17:25:00.088Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T17:25:00.152Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T17:25:00.154Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T17:25:00.162Z"}
+{"level":"info","message":"POST /post 201 34 - 126.591 ms\n","timestamp":"2017-09-14T17:25:22.102Z"}
+{"level":"info","message":"POST /post 401 31 - 1.735 ms\n","timestamp":"2017-09-14T17:28:52.433Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T18:00:02.931Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T18:00:07.211Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T18:00:08.364Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T18:00:08.414Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T18:00:08.418Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T18:00:17.677Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T18:00:20.746Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T18:00:20.791Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T18:00:20.793Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T18:00:20.798Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T18:01:47.630Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T18:01:50.719Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T18:01:50.761Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T18:01:50.763Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T18:01:50.766Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T18:07:35.928Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T18:07:39.123Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T18:07:39.173Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T18:07:39.174Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T18:07:39.177Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T18:10:55.478Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T18:10:58.876Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T18:10:58.922Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T18:10:58.924Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T18:10:58.928Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T18:12:52.623Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T18:12:55.784Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T18:12:55.827Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T18:12:55.829Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T18:12:55.832Z"}
+{"level":"info","message":"GET /post/ 200 2 - 37.203 ms\n","timestamp":"2017-09-14T18:13:22.914Z"}
+{"level":"info","message":"POST /post/ 201 34 - 131.401 ms\n","timestamp":"2017-09-14T18:13:30.631Z"}
+{"level":"info","message":"GET /post/59bac6ca9302242a14219da1 200 262 - 12.657 ms\n","timestamp":"2017-09-14T18:13:46.199Z"}
+{"level":"error","message":"{ reqBody: {}, reqUrl: /post/59bac6ca9302242a14219da, reqMeth: GET, error: CastError: Cast to ObjectId failed for value \"59bac6ca9302242a14219da\" at path \"_id\" for model \"Post\" }","timestamp":"2017-09-14T18:13:56.456Z"}
+{"level":"info","message":"GET /post/59bac6ca9302242a14219da 500 43 - 4.343 ms\n","timestamp":"2017-09-14T18:13:56.458Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T18:16:18.822Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T18:16:22.079Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T18:16:22.125Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T18:16:22.126Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T18:16:22.129Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T18:16:51.501Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T18:16:54.703Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T18:16:54.779Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T18:16:54.782Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T18:16:54.787Z"}
+{"level":"info","message":"GET /post/59bac6ca9302242a14219da - - - - ms\n","timestamp":"2017-09-14T18:19:22.318Z"}
+{"level":"info","message":"GET /post/ 200 2 - 31.612 ms\n","timestamp":"2017-09-14T18:19:27.865Z"}
+{"level":"info","message":"POST /post/ 201 34 - 90.614 ms\n","timestamp":"2017-09-14T18:19:34.855Z"}
+{"level":"info","message":"GET /post/59bac836af2b751d00af4d9e 200 262 - 13.187 ms\n","timestamp":"2017-09-14T18:19:46.300Z"}
+{"level":"info","message":"GET /post/59bac836af2b751d00af4d9 - - - - ms\n","timestamp":"2017-09-14T18:20:22.765Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T18:22:04.549Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T18:22:11.412Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T18:22:11.460Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T18:22:11.462Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T18:22:11.470Z"}
+{"level":"info","message":"POST /post/59bac836af2b751d00af4d9 404 168 - 47.761 ms\n","timestamp":"2017-09-14T18:22:11.725Z"}
+{"level":"info","message":"POST /post/59bac836af2b751d00af4d9 404 168 - 2.944 ms\n","timestamp":"2017-09-14T18:22:13.516Z"}
+{"level":"info","message":"POST /post 201 34 - 47.382 ms\n","timestamp":"2017-09-14T18:22:23.233Z"}
+{"level":"info","message":"GET /post 200 264 - 21.150 ms\n","timestamp":"2017-09-14T18:22:36.165Z"}
+{"level":"info","message":"GET /post/59bac8dfe459791d70963306 200 262 - 21.592 ms\n","timestamp":"2017-09-14T18:22:40.653Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T18:23:37.692Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T18:23:40.790Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T18:23:40.833Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T18:23:40.835Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T18:23:40.838Z"}
+{"level":"info","message":"GET /post/59bac8dfe459791d7096330 401 - - 33.928 ms\n","timestamp":"2017-09-14T18:23:44.752Z"}
+{"level":"info","message":"GET /post/59bac8dfe459791d7096330 401 - - 3.470 ms\n","timestamp":"2017-09-14T18:23:47.379Z"}
+{"level":"info","message":"GET /post/59bac8dfe459791d7096330 401 - - 1.806 ms\n","timestamp":"2017-09-14T18:23:48.235Z"}
+{"level":"info","message":"GET /post/59bac8dfe459791d7096330 401 - - 1.274 ms\n","timestamp":"2017-09-14T18:23:48.972Z"}
+{"level":"info","message":"GET /post/59bac8dfe459791d7096330 401 - - 1.449 ms\n","timestamp":"2017-09-14T18:23:49.368Z"}
+{"level":"info","message":"GET /post/59bac8dfe459791d7096330 401 - - 1.225 ms\n","timestamp":"2017-09-14T18:23:49.687Z"}
+{"level":"info","message":"GET /post 200 2 - 23.022 ms\n","timestamp":"2017-09-14T18:23:54.815Z"}
+{"level":"info","message":"GET /post/59bac8dfe459791d70963306 - - - - ms\n","timestamp":"2017-09-14T18:24:31.680Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T18:26:18.961Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T18:26:22.161Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T18:26:22.206Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T18:26:22.207Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T18:26:22.211Z"}
+{"level":"info","message":"POST /post 201 34 - 96.262 ms\n","timestamp":"2017-09-14T18:26:46.989Z"}
+{"level":"info","message":"GET /post/59bac9e6e4b02a31789deaa9 200 262 - 28.317 ms\n","timestamp":"2017-09-14T18:26:58.702Z"}
+{"level":"info","message":"GET /post/59bac9e6e4b02a31789deaa 401 - - 1.861 ms\n","timestamp":"2017-09-14T18:27:16.723Z"}
+{"level":"info","message":"GET /post/59bac9e6e4b02a31789deaa9 200 262 - 10.051 ms\n","timestamp":"2017-09-14T18:27:43.089Z"}
+{"level":"info","message":"GET /post/59bac9e6e4b02a31789deaa8 401 - - 8.388 ms\n","timestamp":"2017-09-14T18:27:48.111Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T18:28:12.704Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T18:28:15.864Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T18:28:15.908Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T18:28:15.910Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T18:28:15.914Z"}
+{"level":"info","message":"GET /post/59bac9e6e4b02a31789deaa8 404 - - 30.654 ms\n","timestamp":"2017-09-14T18:28:51.496Z"}
+{"level":"info","message":"GET /post/59bac9e6e4b02a3178 404 - - 8.705 ms\n","timestamp":"2017-09-14T18:28:59.261Z"}
+{"level":"info","message":"GET /post/59bac9e6e4b02a3178 404 - - 2.015 ms\n","timestamp":"2017-09-14T18:29:00.540Z"}
+{"level":"info","message":"GET /post/123 404 - - 1.469 ms\n","timestamp":"2017-09-14T18:29:08.196Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T18:32:35.712Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T18:32:39.295Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T18:32:39.339Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T18:32:39.340Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T18:32:39.343Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T18:43:10.131Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T18:43:13.304Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T18:43:13.346Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T18:43:13.348Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T18:43:13.351Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T18:46:06.715Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T18:46:09.991Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T18:46:10.035Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T18:46:10.038Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T18:46:10.041Z"}
+{"level":"info","message":"GET / 302 76 - 31.147 ms\n","timestamp":"2017-09-14T18:47:06.331Z"}
+{"level":"info","message":"GET /swagger-ui.html/ 304 - - 19.910 ms\n","timestamp":"2017-09-14T18:47:06.457Z"}
+{"level":"info","message":"GET /swagger-ui.html/swagger-ui.css 304 - - 5.848 ms\n","timestamp":"2017-09-14T18:47:06.660Z"}
+{"level":"info","message":"GET /swagger-ui.html/swagger-ui-init.js 304 - - 2.846 ms\n","timestamp":"2017-09-14T18:47:06.666Z"}
+{"level":"info","message":"GET /swagger-ui.html/swagger-ui-bundle.js 304 - - 4.046 ms\n","timestamp":"2017-09-14T18:47:06.669Z"}
+{"level":"info","message":"GET /swagger-ui.html/swagger-ui-standalone-preset.js 304 - - 5.788 ms\n","timestamp":"2017-09-14T18:47:06.671Z"}
+{"level":"info","message":"GET /swagger-ui.html/favicon-16x16.png 304 - - 1.092 ms\n","timestamp":"2017-09-14T18:47:08.868Z"}
+{"level":"info","message":"GET /api-docs 200 8038 - 2.042 ms\n","timestamp":"2017-09-14T18:47:25.291Z"}
+{"level":"info","message":"GET /favicon.ico 401 31 - 0.978 ms\n","timestamp":"2017-09-14T18:47:25.579Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T18:49:44.582Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T18:49:47.946Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T18:49:47.999Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T18:49:48.003Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T18:49:48.007Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T18:50:44.460Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T18:50:47.828Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T18:50:47.871Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T18:50:47.873Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T18:50:47.878Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T18:50:56.747Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T18:50:59.936Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T18:50:59.991Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T18:50:59.993Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T18:50:59.996Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T18:51:13.277Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T18:51:16.745Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T18:51:16.786Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T18:51:16.788Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T18:51:16.791Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T18:52:16.930Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T18:52:20.110Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T18:52:20.155Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T18:52:20.157Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T18:52:20.161Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T18:52:31.889Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T18:52:35.019Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T18:52:35.063Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T18:52:35.066Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T18:52:35.070Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T19:49:16.592Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T19:49:16.658Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T19:49:16.659Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T19:49:16.663Z"}
+{"level":"info","message":"GET / 302 38 - 2.782 ms\n","timestamp":"2017-09-14T19:49:16.682Z"}
+{"level":"info","message":"GET /swagger-ui.html 301 189 - 2.971 ms\n","timestamp":"2017-09-14T19:49:16.693Z"}
+{"level":"info","message":"GET /swagger-ui.html/ 200 11376 - 3.151 ms\n","timestamp":"2017-09-14T19:49:16.702Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T19:51:21.885Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T19:51:21.942Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T19:51:21.944Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T19:51:21.948Z"}
+{"level":"info","message":"GET / 302 38 - 8.980 ms\n","timestamp":"2017-09-14T19:51:22.279Z"}
+{"level":"info","message":"GET /swagger-ui.html 301 189 - 11.553 ms\n","timestamp":"2017-09-14T19:51:22.315Z"}
+{"level":"info","message":"GET /swagger-ui.html/ 200 11376 - 7.385 ms\n","timestamp":"2017-09-14T19:51:22.337Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T19:52:45.580Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T19:52:45.624Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T19:52:45.626Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T19:52:45.629Z"}
+{"level":"info","message":"GET / 302 38 - 8.583 ms\n","timestamp":"2017-09-14T19:52:57.140Z"}
+{"level":"info","message":"GET /swagger-ui.html 301 189 - 7.671 ms\n","timestamp":"2017-09-14T19:52:57.171Z"}
+{"level":"info","message":"GET /swagger-ui.html/ 200 11376 - 15.167 ms\n","timestamp":"2017-09-14T19:52:57.201Z"}
+{"level":"info","message":"GET / 302 38 - 1.125 ms\n","timestamp":"2017-09-14T19:53:12.195Z"}
+{"level":"info","message":"GET /swagger-ui.html 301 189 - 1.673 ms\n","timestamp":"2017-09-14T19:53:12.204Z"}
+{"level":"info","message":"GET /swagger-ui.html/ 200 11376 - 1.247 ms\n","timestamp":"2017-09-14T19:53:12.212Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T19:54:13.266Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T19:54:13.327Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T19:54:13.328Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T19:54:13.331Z"}
+{"level":"info","message":"GET / 302 38 - 8.022 ms\n","timestamp":"2017-09-14T19:54:24.689Z"}
+{"level":"info","message":"GET /swagger-ui.html 301 189 - 3.436 ms\n","timestamp":"2017-09-14T19:54:24.707Z"}
+{"level":"info","message":"GET /swagger-ui.html/ 200 11376 - 5.264 ms\n","timestamp":"2017-09-14T19:54:24.718Z"}
+{"level":"info","message":"GET / 302 38 - 0.536 ms\n","timestamp":"2017-09-14T19:54:24.732Z"}
+{"level":"info","message":"GET /swagger-ui.html 301 189 - 0.645 ms\n","timestamp":"2017-09-14T19:54:24.737Z"}
+{"level":"info","message":"GET /swagger-ui.html/ 200 11376 - 0.729 ms\n","timestamp":"2017-09-14T19:54:24.742Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T19:56:21.003Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T19:56:21.060Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T19:56:21.062Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T19:56:21.065Z"}
+{"level":"info","message":"GET / 302 38 - 6.667 ms\n","timestamp":"2017-09-14T19:56:32.614Z"}
+{"level":"info","message":"GET /swagger-ui.html 301 189 - 3.638 ms\n","timestamp":"2017-09-14T19:56:32.633Z"}
+{"level":"info","message":"GET /swagger-ui.html/ 200 11376 - 6.520 ms\n","timestamp":"2017-09-14T19:56:32.647Z"}
+{"level":"info","message":"GET / 302 38 - 0.694 ms\n","timestamp":"2017-09-14T19:56:32.664Z"}
+{"level":"info","message":"GET /swagger-ui.html 301 189 - 0.712 ms\n","timestamp":"2017-09-14T19:56:32.670Z"}
+{"level":"info","message":"GET /swagger-ui.html/ 200 11376 - 0.996 ms\n","timestamp":"2017-09-14T19:56:32.677Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T21:08:00.353Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T21:08:00.401Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T21:08:00.403Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T21:08:00.406Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-14T21:08:25.537Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T21:08:28.548Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T21:08:28.590Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T21:08:28.592Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T21:08:28.596Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T21:11:08.931Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T21:11:08.974Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T21:11:08.976Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T21:11:08.979Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T21:13:33.408Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T21:13:33.451Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T21:13:33.453Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T21:13:33.456Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T21:20:13.102Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T21:20:13.139Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T21:20:13.140Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T21:20:13.143Z"}
+{"level":"info","message":"GET /api-docs 200 8038 - 3.530 ms\n","timestamp":"2017-09-14T21:20:13.375Z"}
+{"level":"info","message":"GET / 302 38 - 1.958 ms\n","timestamp":"2017-09-14T21:20:13.398Z"}
+{"level":"info","message":"GET /swagger-ui.html 301 189 - 3.887 ms\n","timestamp":"2017-09-14T21:20:13.416Z"}
+{"level":"info","message":"GET /swagger-ui.html/ 200 11376 - 1.813 ms\n","timestamp":"2017-09-14T21:20:13.423Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T21:20:51.507Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T21:20:51.543Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T21:20:51.544Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T21:20:51.547Z"}
+{"level":"info","message":"GET /api-docs 200 8038 - 3.611 ms\n","timestamp":"2017-09-14T21:20:51.702Z"}
+{"level":"info","message":"GET / 302 38 - 2.032 ms\n","timestamp":"2017-09-14T21:20:51.726Z"}
+{"level":"info","message":"GET /swagger-ui.html 301 189 - 3.142 ms\n","timestamp":"2017-09-14T21:20:51.737Z"}
+{"level":"info","message":"GET /swagger-ui.html/ 200 11376 - 1.962 ms\n","timestamp":"2017-09-14T21:20:51.744Z"}
+{"level":"info","message":"GET / 302 38 - 0.520 ms\n","timestamp":"2017-09-14T21:20:51.755Z"}
+{"level":"info","message":"GET /swagger-ui.html 301 189 - 0.490 ms\n","timestamp":"2017-09-14T21:20:51.760Z"}
+{"level":"info","message":"GET /swagger-ui.html/ 200 11376 - 0.577 ms\n","timestamp":"2017-09-14T21:20:51.766Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T21:30:01.018Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T21:30:01.068Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T21:30:01.071Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T21:30:01.074Z"}
+{"level":"info","message":"GET /api-docs 200 8038 - 3.783 ms\n","timestamp":"2017-09-14T21:30:01.109Z"}
+{"level":"info","message":"GET / 302 38 - 2.282 ms\n","timestamp":"2017-09-14T21:30:01.133Z"}
+{"level":"info","message":"GET /swagger-ui.html 301 189 - 2.917 ms\n","timestamp":"2017-09-14T21:30:01.144Z"}
+{"level":"info","message":"GET /swagger-ui.html/ 200 11376 - 4.549 ms\n","timestamp":"2017-09-14T21:30:01.157Z"}
+{"level":"info","message":"GET / 302 38 - 0.731 ms\n","timestamp":"2017-09-14T21:30:01.169Z"}
+{"level":"info","message":"GET /swagger-ui.html 301 189 - 0.842 ms\n","timestamp":"2017-09-14T21:30:01.174Z"}
+{"level":"info","message":"GET /swagger-ui.html/ 200 11376 - 0.612 ms\n","timestamp":"2017-09-14T21:30:01.179Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T21:47:34.967Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T21:47:35.018Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T21:47:35.019Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T21:47:35.022Z"}
+{"level":"info","message":"GET /api-docs 200 8038 - 6.089 ms\n","timestamp":"2017-09-14T21:47:36.817Z"}
+{"level":"info","message":"GET / 302 38 - 2.235 ms\n","timestamp":"2017-09-14T21:47:36.839Z"}
+{"level":"info","message":"GET /swagger-ui.html 301 189 - 2.807 ms\n","timestamp":"2017-09-14T21:47:36.850Z"}
+{"level":"info","message":"GET /swagger-ui.html/ 200 11376 - 3.099 ms\n","timestamp":"2017-09-14T21:47:36.859Z"}
+{"level":"info","message":"GET / 302 38 - 0.669 ms\n","timestamp":"2017-09-14T21:47:36.871Z"}
+{"level":"info","message":"GET /swagger-ui.html 301 189 - 0.532 ms\n","timestamp":"2017-09-14T21:47:36.875Z"}
+{"level":"info","message":"GET /swagger-ui.html/ 200 11376 - 0.609 ms\n","timestamp":"2017-09-14T21:47:36.880Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T21:47:56.799Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T21:47:56.844Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T21:47:56.845Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T21:47:56.848Z"}
+{"level":"info","message":"GET /api-docs 200 8038 - 4.365 ms\n","timestamp":"2017-09-14T21:47:58.370Z"}
+{"level":"info","message":"GET / 302 38 - 2.557 ms\n","timestamp":"2017-09-14T21:47:58.398Z"}
+{"level":"info","message":"GET /swagger-ui.html 301 189 - 3.935 ms\n","timestamp":"2017-09-14T21:47:58.413Z"}
+{"level":"info","message":"GET /swagger-ui.html/ 200 11376 - 4.147 ms\n","timestamp":"2017-09-14T21:47:58.424Z"}
+{"level":"info","message":"GET / 302 38 - 0.869 ms\n","timestamp":"2017-09-14T21:47:58.438Z"}
+{"level":"info","message":"GET /swagger-ui.html 301 189 - 0.800 ms\n","timestamp":"2017-09-14T21:47:58.444Z"}
+{"level":"info","message":"GET /swagger-ui.html/ 200 11376 - 0.965 ms\n","timestamp":"2017-09-14T21:47:58.451Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T21:48:31.951Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T21:48:31.994Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T21:48:31.996Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T21:48:31.999Z"}
+{"level":"info","message":"GET /api-docs 200 8038 - 5.396 ms\n","timestamp":"2017-09-14T21:48:33.574Z"}
+{"level":"info","message":"GET / 302 38 - 1.984 ms\n","timestamp":"2017-09-14T21:48:33.594Z"}
+{"level":"info","message":"GET /swagger-ui.html 301 189 - 2.929 ms\n","timestamp":"2017-09-14T21:48:33.604Z"}
+{"level":"info","message":"GET /swagger-ui.html/ 200 11376 - 3.154 ms\n","timestamp":"2017-09-14T21:48:33.613Z"}
+{"level":"info","message":"GET / 302 38 - 0.490 ms\n","timestamp":"2017-09-14T21:48:33.623Z"}
+{"level":"info","message":"GET /swagger-ui.html 301 189 - 0.445 ms\n","timestamp":"2017-09-14T21:48:33.628Z"}
+{"level":"info","message":"GET /swagger-ui.html/ 200 11376 - 0.629 ms\n","timestamp":"2017-09-14T21:48:33.633Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T21:48:53.623Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T21:48:53.666Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T21:48:53.668Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T21:48:53.671Z"}
+{"level":"info","message":"GET /api-docs 200 8038 - 7.568 ms\n","timestamp":"2017-09-14T21:48:55.498Z"}
+{"level":"info","message":"GET / 302 38 - 2.123 ms\n","timestamp":"2017-09-14T21:48:55.525Z"}
+{"level":"info","message":"GET /swagger-ui.html 301 189 - 3.026 ms\n","timestamp":"2017-09-14T21:48:55.541Z"}
+{"level":"info","message":"GET /swagger-ui.html/ 200 11376 - 6.929 ms\n","timestamp":"2017-09-14T21:48:55.556Z"}
+{"level":"info","message":"GET / 302 38 - 1.569 ms\n","timestamp":"2017-09-14T21:48:55.575Z"}
+{"level":"info","message":"GET /swagger-ui.html 301 189 - 0.770 ms\n","timestamp":"2017-09-14T21:48:55.582Z"}
+{"level":"info","message":"GET /swagger-ui.html/ 200 11376 - 1.779 ms\n","timestamp":"2017-09-14T21:48:55.594Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T21:58:58.437Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T21:58:58.481Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T21:58:58.483Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T21:58:58.486Z"}
+{"level":"info","message":"GET /api-docs 200 8038 - 3.863 ms\n","timestamp":"2017-09-14T21:59:00.283Z"}
+{"level":"info","message":"GET / 302 38 - 2.477 ms\n","timestamp":"2017-09-14T21:59:00.312Z"}
+{"level":"info","message":"GET /swagger-ui.html 301 189 - 2.979 ms\n","timestamp":"2017-09-14T21:59:00.325Z"}
+{"level":"info","message":"GET /swagger-ui.html/ 200 11376 - 3.528 ms\n","timestamp":"2017-09-14T21:59:00.334Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T21:59:41.898Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T21:59:41.962Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T21:59:41.966Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T21:59:41.971Z"}
+{"level":"info","message":"GET /api-docs 200 8038 - 6.679 ms\n","timestamp":"2017-09-14T21:59:43.566Z"}
+{"level":"info","message":"GET / 302 38 - 2.297 ms\n","timestamp":"2017-09-14T21:59:43.590Z"}
+{"level":"info","message":"GET /swagger-ui.html 301 189 - 3.255 ms\n","timestamp":"2017-09-14T21:59:43.603Z"}
+{"level":"info","message":"GET /swagger-ui.html/ 200 11376 - 10.703 ms\n","timestamp":"2017-09-14T21:59:43.624Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T22:02:09.051Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T22:02:09.093Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T22:02:09.094Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T22:02:09.097Z"}
+{"level":"info","message":"GET /api-docs 200 8038 - 5.260 ms\n","timestamp":"2017-09-14T22:02:10.845Z"}
+{"level":"info","message":"GET / 302 38 - 2.226 ms\n","timestamp":"2017-09-14T22:02:10.865Z"}
+{"level":"info","message":"GET /swagger-ui.html 301 189 - 3.651 ms\n","timestamp":"2017-09-14T22:02:10.877Z"}
+{"level":"info","message":"GET /swagger-ui.html/ 200 11376 - 3.506 ms\n","timestamp":"2017-09-14T22:02:10.886Z"}
+{"level":"info","message":"GET / 302 38 - 0.509 ms\n","timestamp":"2017-09-14T22:02:10.897Z"}
+{"level":"info","message":"GET /swagger-ui.html 301 189 - 0.523 ms\n","timestamp":"2017-09-14T22:02:10.902Z"}
+{"level":"info","message":"GET /swagger-ui.html/ 200 11376 - 0.625 ms\n","timestamp":"2017-09-14T22:02:10.907Z"}
+{"level":"info","message":"POST / 401 31 - 27.128 ms\n","timestamp":"2017-09-14T22:02:10.945Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-14T22:08:11.951Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-14T22:08:11.999Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-14T22:08:12.000Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-14T22:08:12.005Z"}
+{"level":"info","message":"GET /api-docs 200 8038 - 5.927 ms\n","timestamp":"2017-09-14T22:08:13.825Z"}
+{"level":"info","message":"GET / 302 38 - 2.270 ms\n","timestamp":"2017-09-14T22:08:13.847Z"}
+{"level":"info","message":"GET /swagger-ui.html 301 189 - 3.761 ms\n","timestamp":"2017-09-14T22:08:13.860Z"}
+{"level":"info","message":"GET /swagger-ui.html/ 200 11376 - 2.738 ms\n","timestamp":"2017-09-14T22:08:13.868Z"}
+{"level":"info","message":"GET / 302 38 - 0.477 ms\n","timestamp":"2017-09-14T22:08:13.878Z"}
+{"level":"info","message":"GET /swagger-ui.html 301 189 - 0.530 ms\n","timestamp":"2017-09-14T22:08:13.883Z"}
+{"level":"info","message":"GET /swagger-ui.html/ 200 11376 - 0.589 ms\n","timestamp":"2017-09-14T22:08:13.888Z"}
+{"level":"info","message":"POST / 404 140 - 27.715 ms\n","timestamp":"2017-09-14T22:08:13.927Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2017-09-18T23:49:23.943Z"}
+{"level":"info","message":"Mongo connection successful","timestamp":"2017-09-18T23:49:31.731Z"}
+{"level":"info","message":"Morgan, BodyParser Middlewares Configured Successfully","timestamp":"2017-09-18T23:49:32.113Z"}
+{"level":"info","message":"Docs Routes Configured Successfully","timestamp":"2017-09-18T23:49:32.125Z"}
+{"level":"info","message":"App Routes Configured Successfully","timestamp":"2017-09-18T23:49:32.131Z"}

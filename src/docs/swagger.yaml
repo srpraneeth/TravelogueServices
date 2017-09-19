@@ -1,0 +1,480 @@
+swagger: '2.0'
+info:
+  description: Post API
+  version: 1.0.0
+  title: Post API
+host: 'localhost:8090'
+basePath: /
+tags:
+  - name: PostAPI
+    description: Post API
+schemes:
+  - http
+  - https
+paths:
+  /post:
+    post:
+      tags:
+        - CreatePost
+      summary: Create Post
+      description: Create Post API
+      operationId: CreatePost
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - in: body
+          name: post
+          description: Post
+          required: true
+          schema:
+            $ref: '#/definitions/post'
+      responses:
+        '201':
+          description: Success
+          headers: 
+            Location:
+              description: Post Id created
+              type: string
+        '400':
+          description: Bad Request
+          schema:
+            type: array
+            items:
+              $ref: '#/definitions/error'
+        '401':
+          description: Authentication Failed
+        '403':
+          description: Forbidden
+        '500':
+          description: Server Fault
+    put:
+      tags:
+        - UpdatePost
+      summary: Update Post
+      description: Update Post API
+      operationId: UpdatePost
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - in: body
+          name: post
+          description: Post
+          required: true
+          schema:
+            $ref: '#/definitions/post'
+      responses:
+        '204':
+          description: Success
+        '400':
+          description: Bad Request
+          schema:
+            type: array
+            items:
+              $ref: '#/definitions/error'
+        '401':
+          description: Authentication Failed
+        '403':
+          description: Forbidden
+        '500':
+          description: Server Fault
+        
+  /post/{id}:
+    get:
+      tags:
+        - GetPostById
+      summary: Get Post By Id
+      description: Get Post By Id API
+      operationId: GetPostById
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - in: path
+          name: id
+          description: Post Id
+          required: true
+          type: string
+      responses:
+        '200':
+          description: Success
+          schema:
+            $ref: '#/definitions/post'
+        '401':
+          description: Authentication Failed
+        '403':
+          description: Forbidden
+        '404':
+          description: NotFound
+        '500':
+          description: Server Fault
+  
+  /post/{id}/like:
+    post:
+      tags:
+          - LikePostById
+      summary: Like Post By Id
+      description: Like Post By Id API
+      operationId: LikePostById
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - in: path
+          name: id
+          description: Post Id
+          required: true
+          type: string
+      responses:
+          '201':
+            description: Success
+          '401':
+            description: Authentication Failed
+          '403':
+            description: Forbidden
+          '404':
+            description: NotFound
+          '500':
+            description: Server Fault
+            
+  /post/{id}/tag:
+    put:
+      tags:
+          - UpdateTagsForPostById
+      summary: Update Tags for Post By Id
+      description: Update Tags for Post By Id
+      operationId: UpdateTagsForPostById
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - in: path
+          name: id
+          description: Post Id
+          required: true
+          type: string
+        - in: body
+          name: tags
+          description: Tags to be updated
+          required: true
+          schema:
+            type: array
+            items:
+              $ref: '#/definitions/tag'
+      responses:
+          '204':
+            description: Success
+          '400':
+            description: Bad Request
+            schema:
+              type: array
+              items:
+                $ref: '#/definitions/error'
+          '401':
+            description: Authentication Failed
+          '403':
+            description: Forbidden
+          '404':
+            description: NotFound
+          '500':
+            description: Server Fault
+            
+  /tag:
+    post:
+      tags:
+          - CreateTag
+      summary: Create Tag
+      description: Create Tag
+      operationId: CreateTag
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - in: body
+          name: tag
+          description: Tag to be created
+          required: true
+          schema:
+            $ref: '#/definitions/tag'
+      responses:
+          '201':
+            description: Success
+            headers: 
+              Location:
+                description: Tag Id created
+                type: string
+          '400':
+            description: Bad Request
+            schema:
+              type: array
+              items:
+                $ref: '#/definitions/error'
+          '401':
+            description: Authentication Failed
+          '403':
+            description: Forbidden
+          '409':
+            description: Conflict
+          '500':
+            description: Server Fault
+            
+    get:
+      tags:
+          - SearchTag
+      summary: Search Tag
+      description: Search Tag
+      operationId: SearchTag
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - name: q
+          in: query
+          description: Search parameter for Tag
+          required: true
+          type: string
+        - name: type
+          in: query
+          description: Search parameter for Tag Type
+          required: false
+          type: string
+      responses:
+          '200':
+            description: Success
+            schema:
+              type: array
+              items:
+                $ref: '#/definitions/tag'
+          '400':
+            description: Bad Request
+            schema:
+              type: array
+              items:
+                $ref: '#/definitions/error'
+          '401':
+            description: Authentication Failed
+          '403':
+            description: Forbidden
+          '409':
+            description: Conflict
+          '500':
+            description: Server Fault
+  /post/{id}/comment:
+    post:
+      tags:
+          - CommentToPostById
+      summary: Comment to Post By Id
+      description: Comment to Post By Id
+      operationId: CommentToPostById
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - in: path
+          name: id
+          description: Post Id
+          required: true
+          type: string
+        - in: body
+          name: comment
+          description: Comment to the Post
+          required: true
+          schema:
+            $ref: '#/definitions/comment'
+      responses:
+          '201':
+            description: Success
+            headers: 
+              Location:
+                description: Comment Id created
+                type: string
+          '401':
+            description: Authentication Failed
+          '403':
+            description: Forbidden
+          '404':
+            description: NotFound
+          '500':
+            description: Server Fault
+  
+  /post/{id}/comment/{Id}/like:
+    post:
+      tags:
+          - Like Comment By Post Id By Comment Id 
+      summary: Like Comment By Post Id By Comment Id
+      description: Like Comment By Post Id By Comment Id
+      operationId: LikeCommentByPostIdByCommentId
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - in: path
+          name: id
+          description: Post Id
+          required: true
+          type: string
+        - in: path
+          name: Id
+          description: Comment Id
+          required: true
+          type: string
+      responses:
+          '201':
+            description: Success
+          '400':
+            description: Bad Request
+            schema:
+              type: array
+              items:
+                $ref: '#/definitions/error'
+          '401':
+            description: Authentication Failed
+          '403':
+            description: Forbidden
+          '404':
+            description: NotFound
+          '500':
+            description: Server Fault
+            
+securityDefinitions:
+  JWT:
+    description: JWT API Token
+    type: apiKey
+    name: Authorization
+    in: "header"
+    
+security:
+  - JWT: []
+  
+definitions:
+  post:
+    type: object
+    required:
+      - head
+      - content
+      - createdUser
+    properties:
+      _id:
+        type: string
+      head:
+        type: string
+      content:
+        type: string
+      createdUser:
+        type: integer
+        format: int64
+      usersTagged:
+        type: array
+        items:
+          type: integer
+          format: int64
+      placesTagged:
+        type: array
+        items:
+          type: string
+      createdOn:
+        type: string
+        format: date-time
+      updatedOn:
+        type: string
+        format: date-time
+      tags:
+        type: array
+        items:
+          $ref: '#/definitions/tag'
+      resources: 
+        type: array
+        items:
+          $ref: '#/definitions/resource'
+      comments: 
+        type: array
+        items:
+          $ref: '#/definitions/comment'
+  tag:
+    type: object
+    required: 
+      - _id
+      - name
+      - type
+    properties:
+      _id:
+        type: string
+      name:
+        type: string
+      type:
+        type: string
+  resource:
+    type: object
+    required:
+      - _id
+      - type
+    properties:
+      _id:
+        type: string
+      type:
+        type: string
+      createdOn:
+        type: string
+        format: date-time
+      updatedOn:
+        type: string
+        format: date-time
+      likes:
+        type: array
+        items:
+          type: integer
+          format: int64
+      comments: 
+        type: array
+        items:
+          $ref: '#/definitions/comment'
+  comment:
+    type: object
+    required: 
+      - _id
+      - createdUser
+      - line
+      - createdOn
+    properties:
+      _id:
+        type: string
+      createdUser:
+        type: integer
+        format: int64
+      line:
+        type: string
+      createdOn:
+        type: string
+        format: date-time
+      updatedOn:
+        type: string
+        format: date-time
+      likes:
+        type: array
+        items:
+          type: integer
+          format: int64
+      comments:
+        type: array
+        items:
+          $ref: '#/definitions/comment'
+  error:
+    type: object
+    required:
+      - field
+      - error
+    properties:
+      field:
+        type: string
+      error:
+        type: string

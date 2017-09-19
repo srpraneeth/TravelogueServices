@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "APP_PROFILE": "dev",
+        "MONGODB_CONNECTION": "mongodb://localhost:27017/posts",
+        "APP_PORT": 3000,
+        "JWT_SECRET": "secret"
+    },
+    "test": {
+        "APP_PROFILE": "test",
+        "MONGODB_CONNECTION": "mongodb://localhost:27017/posts",
+        "APP_PORT": 3000,
+        "JWT_SECRET": "secret"
+    },
+    "prod": {
+        "APP_PROFILE": "prod",
+        "MONGODB_CONNECTION": "mongodb://localhost:27017/posts",
+        "APP_PORT": 3000,
+        "JWT_SECRET": "secret"
+    }
+}
